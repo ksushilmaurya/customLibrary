@@ -1,0 +1,66 @@
+{
+  "_args": [
+    [
+      "customLibrary",
+      "/home/sushil"
+    ]
+  ],
+  "_from": "customLibrary@latest",
+  "_id": "customLibrary@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/customLibrary",
+  "_nodeVersion": "4.6.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/customLibrary-1.0.0.tgz_1476172542579_0.7477146270684898"
+  },
+  "_npmUser": {
+    "email": "ksushilmaurya@gmail.com",
+    "name": "sushil123kumar"
+  },
+  "_npmVersion": "2.15.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "customLibrary",
+    "raw": "customLibrary",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/customLibrary/-/customLibrary-1.0.0.tgz",
+  "_shasum": "c04c1f8f85e0f31d8144e460aae5f95cf652f683",
+  "_shrinkwrap": null,
+  "_spec": "customLibrary",
+  "_where": "/home/sushil",
+  "author": {
+    "name": "sushil kumar"
+  },
+  "dependencies": {},
+  "description": "\"JavaScript libraray which have ready made funtions\"",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "c04c1f8f85e0f31d8144e460aae5f95cf652f683",
+    "tarball": "https://registry.npmjs.org/customLibrary/-/customLibrary-1.0.0.tgz"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "sushil123kumar",
+      "email": "ksushilmaurya@gmail.com"
+    }
+  ],
+  "name": "customLibrary",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
